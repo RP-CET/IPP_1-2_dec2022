@@ -1,4 +1,4 @@
-# Introductory Programming Using Python (11 and 12 Oct 2022) 
+# Introductory Programming Using Python (1 and 2 Dec 2022) 
 
 Course materials are contained in this repository
 
